@@ -1,0 +1,16 @@
+.cursorCard:hover {
+  cursor: pointer;
+  background-color: #caf0f8;
+  transition: 0.4s;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+.bodyBackground {
+  background: rgb(241,184,208);
+  background: radial-gradient(circle, rgba(241,184,208,1) 0%, rgba(148,181,233,1) 100%);
+}
+
